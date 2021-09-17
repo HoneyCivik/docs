@@ -3,7 +3,7 @@ title: Quickstart for GitHub Actions
 intro: 'Try out the features of {% data variables.product.prodname_actions %} in 5 minutes or less.'
 allowTitleToDifferFromFilename: true
 redirect_from:
-  - /actions/getting-started-with-github-actions/starting-with-preconfigured-workflow-templates
+  - /actions/getting-started-with-github-actiions/starting-with-preconfigured-workflow-templates
 versions:
   fpt: '*'
   ghes: '*'
