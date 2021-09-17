@@ -9,7 +9,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - User account
+  - User account 
   - Sponsors profile
 shortTitle: Set up for user account
 ---
